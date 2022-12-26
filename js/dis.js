@@ -63,13 +63,13 @@ $.ajax({
                     pos = ipLoacation.result.ad_info.province + " " + ipLoacation.result.ad_info.city;
                     switch (ipLoacation.result.ad_info.province) {
                         case "北京市":
-                            posdesc = "北——京——欢迎你~~~";
+                            posdesc = "老乡！！！";
                             break;
                         case "天津市":
                             posdesc = "讲段相声吧。";
                             break;
                         case "重庆市":
-                            posdesc = "老乡！！！"
+                            posdesc = "去吃火锅吧！";
                             break;
                         case "河北省":
                             posdesc = "山势巍巍成壁垒，天下雄关。铁马金戈由此向，无限江山。";
@@ -194,7 +194,7 @@ $.ajax({
         
             document.getElementsByClassName("announcement_content")[0].innerHTML =
                 `欢迎来自<span>${pos}</span>的小伙伴，${timeChange}<br>
-        你距离Ariasaka约有<span>${dist}</span>公里，${posdesc}
+        你距离石头约有<span>${dist}</span>公里，${posdesc}
         <br>
         <br>
         本网站的Twikoo评论系统使用<a href="https://cravatar.cn">Cravatar</a>头像系统，请自行绑定邮箱配置
