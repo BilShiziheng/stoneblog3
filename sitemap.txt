@@ -9,8 +9,8 @@ https://www.stoneblog.ml/manifest.json
 https://www.stoneblog.ml/link/index.html
 https://www.stoneblog.ml/fcircle/index.html
 https://www.stoneblog.ml/kongtiao/index.html
-https://www.stoneblog.ml/othersite/index.html
 https://www.stoneblog.ml/zaobao/index.html
+https://www.stoneblog.ml/othersite/index.html
 https://www.stoneblog.ml/package.json
 https://www.stoneblog.ml/about/index.html
 https://www.stoneblog.ml/categories/index.html
