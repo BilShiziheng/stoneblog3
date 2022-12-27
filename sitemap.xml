@@ -137,6 +137,15 @@
   </url>
   
   <url>
+    <loc>https://www.stoneblog.ml/fontawesome/index.html</loc>
+    
+    <lastmod>2022-12-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.stoneblog.ml/package.json</loc>
     
     <lastmod>2022-12-14</lastmod>
@@ -164,15 +173,6 @@
   </url>
   
   <url>
-    <loc>https://www.stoneblog.ml/fontawesome/index.html</loc>
-    
-    <lastmod>2022-12-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.stoneblog.ml/license/index.html</loc>
     
     <lastmod>2022-12-14</lastmod>
@@ -182,7 +182,7 @@
   </url>
   
   <url>
-    <loc>https://www.stoneblog.ml/muyu/index.html</loc>
+    <loc>https://www.stoneblog.ml/musics/index.html</loc>
     
     <lastmod>2022-12-14</lastmod>
     
@@ -191,7 +191,7 @@
   </url>
   
   <url>
-    <loc>https://www.stoneblog.ml/musics/index.html</loc>
+    <loc>https://www.stoneblog.ml/muyu/index.html</loc>
     
     <lastmod>2022-12-14</lastmod>
     
