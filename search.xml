@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>如何开一个MC服务器？</title>
+      <link href="/posts/b521e48f/"/>
+      <url>/posts/b521e48f/</url>
+      
+        <content type="html"><![CDATA[<h2 id="准备材料"><a class="markdownIt-Anchor" href="#准备材料"></a> 准备材料</h2><p><strong>注：目前只给出最新版本的开服教程<s>剩下的你自己琢磨去</s></strong></p><ul><li><a href="https://download.oracle.com/java/17/archive/jdk-17.0.5_windows-x64_bin.msi">Java17</a>一份</li><li>一台Windows服务器（自己电脑也行，后面会多出yee步）</li></ul><h2 id="开服前准备"><a class="markdownIt-Anchor" href="#开服前准备"></a> 开服前准备</h2><ol><li>你需要<a href="https://download.oracle.com/java/17/archive/jdk-17.0.5_windows-x64_bin.msi">下载</a>Java17(<strong>点击那个蓝色下载即可</strong>）</li><li>然后安装它，一直下一步即可qwq</li></ol><h2 id="开服"><a class="markdownIt-Anchor" href="#开服"></a> 开服</h2><p>OK，你已经做好了准备（没错就这么简单）现在我们来开服吧！<br>1.从<a href="https://download.getbukkit.org/spigot/spigot-1.19.jar">这里</a>下载核心</p><p>打开按<code>Win+R键</code>打开CMD<br><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="https://img1.imgtp.com/2022/12/28/9fqPT3un.png" alt="QQ截图20221228180708.png"><br>2.建议把<code>spigot-1.19.jar</code>移到一个别的位置，然后再进行下一步qwq<br>3.在CMD里输入这俩代码</p><figure class="highlight cmd"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">cd</span> \你挪到那个位置\</span><br><span class="line">Java -jar spigot-<span class="number">1</span>.<span class="number">19</span>.jar</span><br></pre></td></tr></table></figure><p><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="https://img1.imgtp.com/2022/12/28/QwIy7mFG.png" alt="我懒得挪不要学我（"><br>可以看到报错了，但是不要慌<br>4. 从你开服的文件夹找到<code>ELUA.txt</code>，把里面的elua=false改成true<br><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="https://img1.imgtp.com/2022/12/28/MyzwprjP.png" alt="QQ截图20221228182139.png"><br>5.至此就差不多了，再重复一遍第三步就可以开服了！！！<br>**但是，还没完，现在服务器是正版验证状态，我们需要打开<code>server.properties</code>并找到<code>online-mode</code>那行，把后面改成False就可以啦！<br><s>好耶又水一篇page</s></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 个人 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>如何解锁课题模式？</title>
       <link href="/posts/bb4ec20c/"/>
       <url>/posts/bb4ec20c/</url>
