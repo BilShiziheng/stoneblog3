@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.stoneblog.ml/zaobao/index.html</loc>
+    
+    <lastmod>2022-12-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.stoneblog.ml/kongtiao/index.html</loc>
+    
+    <lastmod>2022-12-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.stoneblog.ml/posts/b3558cea/</loc>
     
     <lastmod>2022-12-28</lastmod>
@@ -110,15 +128,6 @@
   </url>
   
   <url>
-    <loc>https://www.stoneblog.ml/kongtiao/index.html</loc>
-    
-    <lastmod>2022-12-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.stoneblog.ml/fcircle/index.html</loc>
     
     <lastmod>2022-12-14</lastmod>
@@ -129,15 +138,6 @@
   
   <url>
     <loc>https://www.stoneblog.ml/othersite/index.html</loc>
-    
-    <lastmod>2022-12-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.stoneblog.ml/zaobao/index.html</loc>
     
     <lastmod>2022-12-14</lastmod>
     
@@ -164,15 +164,6 @@
   </url>
   
   <url>
-    <loc>https://www.stoneblog.ml/categories/index.html</loc>
-    
-    <lastmod>2022-12-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.stoneblog.ml/about/index.html</loc>
     
     <lastmod>2022-12-14</lastmod>
@@ -183,6 +174,15 @@
   
   <url>
     <loc>https://www.stoneblog.ml/fontawesome/index.html</loc>
+    
+    <lastmod>2022-12-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.stoneblog.ml/categories/index.html</loc>
     
     <lastmod>2022-12-14</lastmod>
     
