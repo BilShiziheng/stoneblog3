@@ -3613,14 +3613,35 @@ li.categoryBar-list-item:nth-child(2) {
 li.categoryBar-list-item:nth-child(3) {
   background: rgba(112, 235, 12,0.6);
 }
+li.categoryBar-list-item:nth-child(4) {
+  background: rgba(235, 146, 12,0.6);
+}
+li.categoryBar-list-item:nth-child(5) {
+  background: rgba(12, 135, 235,0.6);
+}
+li.categoryBar-list-item:nth-child(6) {
+  background: #425aef88;
+}
+li.categoryBar-list-item:nth-child(7) {
+  background: #ed709b88;
+}
 li.categoryBar-list-item:nth-child(1)>span::after {
-  content: '软件' !important;
+  content: '个人' !important;
 }
 li.categoryBar-list-item:nth-child(2)>span::after {
-  content: '杂谈' !important;
+  content: '教程' !important;
 }
 li.categoryBar-list-item:nth-child(3)>span::after {
-  content: '闲聊' !important;
+  content: 'Phigros' !important;
+}
+li.categoryBar-list-item:nth-child(4)>span::after {
+  content: '白嫖党万岁！' !important;
+}
+li.categoryBar-list-item:nth-child(5)>span::after {
+  content: '一些教程' !important;
+}
+li.categoryBar-list-item:nth-child(6)>span::after {
+  content: '解决一些bug与避坑' !important;
 }
 li.categoryBar-list-item {
   width: 32.3% !important;
