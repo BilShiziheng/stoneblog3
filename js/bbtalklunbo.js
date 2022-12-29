@@ -2,7 +2,7 @@
 AV.init({
     appId: "L9wTv3UhZJEbV6zVaZxKe9dx-MdYXbMMI",
     appKey: "LTUnw3EGvYMwCFyV62jBoyrr",
-    serverURL: "https://l9wtv3uh.api.lncldglobal.com", //改成自己的，在设置->域名绑定
+    serverURL: "https://stokooqwqapi.ztym.cf/", //改成自己的，在设置->域名绑定
 });
 function lunbo() {
     var speaks = [];

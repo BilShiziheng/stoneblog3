@@ -16,8 +16,8 @@ https://www.stoneblog.ml/othersite/index.html
 https://www.stoneblog.ml/zaobao/index.html
 https://www.stoneblog.ml/package.json
 https://www.stoneblog.ml/about/index.html
-https://www.stoneblog.ml/bangumis/index.html
 https://www.stoneblog.ml/categories/index.html
+https://www.stoneblog.ml/bangumis/index.html
 https://www.stoneblog.ml/fontawesome/index.html
 https://www.stoneblog.ml/license/index.html
 https://www.stoneblog.ml/musics/index.html
