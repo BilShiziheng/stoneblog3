@@ -23,6 +23,25 @@
     
     
     <entry>
+      <title>简单地开一个Java版服务器,你需要知道什么？</title>
+      <link href="/posts/b521e48f/"/>
+      <url>/posts/b521e48f/</url>
+      
+        <content type="html"><![CDATA[<p>开服是很多Minecraft人的追求，他们看着腐竹管理风光无限，但不知道这需要什么努力。<br>好！让我写一篇开服教程吧(=D)<br><em><strong>警告：本文仅对Java版提供支持，请不要提问网易版相关问题！</strong></em></p><h2 id="硬件准备"><a class="markdownIt-Anchor" href="#硬件准备"></a> 硬件准备</h2><dl><dt>你有两类选择：</dt><dd><p><em>1.已有的服务器提供商。</em> 他们一般提供服务器租赁，价格也不高，如果是几十个人的小服务器，这种足矣，有的服务商甚至提供一键开服支持，只需要选择服务端即可直接完成配置文件生成，对于普通玩家非常合适。<br>这类服务商一般可以在<a href="https://www.mcbbs.net">mcbbs</a>或类似论坛上找到</p></dd><dd><p><em>2.自建服务器。</em> 你需要：<br>一台运行Minecraft服务端的设备<br>(可以是你的电脑，或者自己豪搞个服务器。当然，买服一时爽，维护火葬场)<br>一个公网ip，一般需要固定ip，作为服务器ip地址；<br>一个域名，加到服务器上，这就是你的服务器直连地址；<br>注1:以上两项如果是内网开服则不为必需,但内网联机也不太用得上开服。<br>注2:服务商会直接解决这两个问题，所以优先推荐。</p></dd></dl><h2 id="软件部分"><a class="markdownIt-Anchor" href="#软件部分"></a> 软件部分</h2><dl><dt><strong>如果：</strong></dt><dd><p>你通过服务商开服：<br>可以跳过这一部分，服务商都帮你做好了。<br><s>这都不做只能是腾讯云</s></p></dd><dd><p>你自己开服，需要准备这些：</p></dd></dl><ul><li><p><s>Jvav</s> Java环境。<br>根据Minecraft版本选择Java版本，高于或等于游戏所需版本，推荐直接Java17或19，没有后顾之忧。<br><a href="https://www.oracle.com/cn/java/technologies/downloads/#java19">Java下载</a> &lt;-点这点这！<br>(不建议从<a href="https://www.java.com/zh-CN/download/">Java.com</a>下载，现在(2022-12-29)只有Java8，不能用于高版本服务器)</p></li><li><p>服务端软件。<s>开服当然要服务端</s><br>这里又分五类：<br>1.纯净服：就是最普通的服务器，是<strong>Minecraft原生玩法。</strong><br>服务端举例：<a href="https://www.minecraft.net/zh-hans/download/server">Vanilla(官方原生服务端)</a>，原生端的<a href="https://mirror.akiracloud.net/Vanilla/">镜像</a><br>2.纯插件端：<strong>这种端只能装插件，不能装mod(模组)</strong><br>比如&quot;暮色森林&quot;&quot;Sodium&quot;等等是mod，&quot;Authme&quot;等等是插件，最好自己百度一下差距。<br>服务端举例：<br><a href="https://www.spigotmc.org/wiki/buildtools/">Bukkit</a>(老牌服务端，较为原始，支持部分主流插件，兼容性也较差)<br><a href="https://github.com/SpongePowered/SpongeVanilla/releases">SpongeVanilla</a>(支持Sponge系插件，性能不错)<a href="https://mirror.akiracloud.net/Sponge/">镜像</a><br><a href="https://getbukkit.org/download/craftbukkit">CraftBukkit</a>(本家升级版，性能更优秀)<br><a href="https://getbukkit.org/download/spigot">Spigot</a>(Bukkit的升级版本，插件兼容性更强，稳定性良好)<a href="https://mirror.akiracloud.net/Spigot/">镜像</a><br>Paper<a href="https://papermc.io/downloads">最新版本</a> <a href="https://papermc.io/legacy#paper">其他版本</a>(Spigot的进阶，特别逆天，早起版本自带防作弊，现版本对刷沙等一系列游戏bug进行了修复)<a href="https://mirror.akiracloud.net/Paper/">镜像</a><br>Tuinity(对Paper的优化，适合玩红石，支持1.16.5和1.17.1，现已停更)<a href="https://mirror.akiracloud.net/Tuinity/">镜像</a><br><a href="https://glowstone.net/">Glowstone</a>(开源，支持Bukkit插件，主流版本为1.12.2，dev版本向上支持)<br><a href="https://github.com/Akarin-project/Akarin">Akarin</a>(Paper升级版，仅支持1.12.2，1.14.4，1.15.2)<br>3.纯mod端：<strong>只能装mod，而不能使用插件。</strong><br>服务端举例：<br><a href="https://files.minecraftforge.net/net/minecraftforge/forge/">Forge</a>(Forge官方端，支持Forge模组，安装器既能安装forge也能安装forge服务端)<br><a href="https://fabricmc.net/use/server/">Fabric</a>(fabric官方端，支持fabric模组)<a href="https://mirror.akiracloud.net/Fabric/">镜像</a><br>4.模组插件均可：如题，<strong>可同时使用模组与插件。</strong><br>服务端举例：<br><a href="https://github.com/SpongePowered/SpongeForge/releases">Sponge(Spongeforge)</a>(Forge+Sponge)<a href="https://mirror.akiracloud.net/Sponge/">镜像</a><br><a href="https://www.mcbbs.net/thread-1046859-1-1.html">Arclight</a>(Forge+Bukkit)<a href="https://mirror.akiracloud.net/Arclight/">镜像</a><br><a href="https://mohistmc.com/">Mohist</a>(Forge+Paper)<a href="https://mirror.akiracloud.net/Mohist/">镜像</a><br><a href="https://www.mcbbs.net/thread-1280076-1-1.html">Catserver</a>(Forge+Bukkit+Spigot)<a href="https://mirror.akiracloud.net/CatServer/">镜像</a></p></li></ul><h2 id="好准备开服"><a class="markdownIt-Anchor" href="#好准备开服"></a> 好，准备开服！</h2><p>找好你的服务端之后，就可以进行后续操作了。<br>1.脚本<br>将服务端放到合适的文件夹中，写一个合适的开服脚本。极其不建议双击直接运行服务端，这样你看不到控制台。<br>2.EULA<br>服务端直接分发需要同意MOJANG的协议。<br>直接在服务端jar的目录新建一个eula.txt，内容为</p><blockquote><p>eula=true</p></blockquote><p>ok,解决！<br>3.运行！<br>使用脚本启动服务端，等待生成世界，完成后会有提示，然后关掉！<br>4.配置文件<br>此时在服务端目录下会有一队文件，其中比较重要的是server.propties这是你服务端的配置文件。<br>需要修改的行：<br>online-mode=？填true为开启正版验证，false为关闭，正版验证意味着必须花钱购买Minecraft。<br>max-players=？最大玩家数。<br>5.再次启动，启动完毕后你就能进入服务器了！<br>这样一个服务器就开起来力</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 个人 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>如何解锁课题模式？</title>
       <link href="/posts/bb4ec20c/"/>
       <url>/posts/bb4ec20c/</url>
