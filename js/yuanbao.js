@@ -29,22 +29,22 @@ var newYear = () => {
             // 大于0则还未过年
             document.querySelector('#newYear .title').innerHTML = '距离2023年春节：'
 
-            // 大于一天则直接渲染天数
+             // 大于一天倒计时
             if (second > 86400) {
-                document.querySelector('#newYear .newYear-time').innerHTML = `<span class="day">${Math.ceil(second / 86400)}<span class="unit">天</span></span>`
-            } else {
-                // 小于一天则使用时分秒计时。
+                let d = nol(parseInt(second / 86000));
+                second %= 86000
                 let h = nol(parseInt(second / 3600));
                 second %= 3600;
                 let m = nol(parseInt(second / 60));
                 second %= 60;
                 let s = nol(second);
-                document.querySelector('#newYear .newYear-time').innerHTML = `<span class="time">${h}:${m}:${s}</span></span>`;
+                document.querySelector('#newYear .newYear-time').innerHTML = `<span class="time">${d}天${h}时${m}分${s}秒</span></spa0on>`;
                 // 计时
                 newYearTimer = setTimeout(time, 1000);
             }
         }
     }
+
 
     // 元宝飘落
     jQuery(document).ready(function($) {
