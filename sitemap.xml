@@ -236,7 +236,7 @@
   </url>
   
   <url>
-    <loc>https://www.stoneblog.ml/bangumis/index.html</loc>
+    <loc>https://www.stoneblog.ml/categories/index.html</loc>
     
     <lastmod>2022-12-14</lastmod>
     
@@ -245,7 +245,7 @@
   </url>
   
   <url>
-    <loc>https://www.stoneblog.ml/categories/index.html</loc>
+    <loc>https://www.stoneblog.ml/bangumis/index.html</loc>
     
     <lastmod>2022-12-14</lastmod>
     
@@ -272,7 +272,7 @@
   </url>
   
   <url>
-    <loc>https://www.stoneblog.ml/musics/index.html</loc>
+    <loc>https://www.stoneblog.ml/muyu/index.html</loc>
     
     <lastmod>2022-12-14</lastmod>
     
@@ -281,7 +281,7 @@
   </url>
   
   <url>
-    <loc>https://www.stoneblog.ml/muyu/index.html</loc>
+    <loc>https://www.stoneblog.ml/musics/index.html</loc>
     
     <lastmod>2022-12-14</lastmod>
     
@@ -310,7 +310,7 @@
 
   <url>
     <loc>https://www.stoneblog.ml/</loc>
-    <lastmod>2023-01-02</lastmod>
+    <lastmod>2023-01-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -318,49 +318,49 @@
   
   <url>
     <loc>https://www.stoneblog.ml/tags/%E4%B8%AA%E4%BA%BA/</loc>
-    <lastmod>2023-01-02</lastmod>
+    <lastmod>2023-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stoneblog.ml/tags/Phigros/</loc>
-    <lastmod>2023-01-02</lastmod>
+    <lastmod>2023-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stoneblog.ml/tags/%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90%EF%BC%81%EF%BC%81/</loc>
-    <lastmod>2023-01-02</lastmod>
+    <lastmod>2023-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stoneblog.ml/tags/FileeaHIze/</loc>
-    <lastmod>2023-01-02</lastmod>
+    <lastmod>2023-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stoneblog.ml/tags/%E6%B0%B5/</loc>
-    <lastmod>2023-01-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.stoneblog.ml/tags/DATACOOLWSDJN2HE/</loc>
-    <lastmod>2023-01-02</lastmod>
+    <lastmod>2023-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stoneblog.ml/tags/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2023-01-02</lastmod>
+    <lastmod>2023-01-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.stoneblog.ml/tags/DATACOOLWSDJN2HE/</loc>
+    <lastmod>2023-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -369,28 +369,28 @@
   
   <url>
     <loc>https://www.stoneblog.ml/categories/%E4%B8%AA%E4%BA%BA/</loc>
-    <lastmod>2023-01-02</lastmod>
+    <lastmod>2023-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stoneblog.ml/categories/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2023-01-02</lastmod>
+    <lastmod>2023-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stoneblog.ml/categories/Phigros/</loc>
-    <lastmod>2023-01-02</lastmod>
+    <lastmod>2023-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.stoneblog.ml/categories/DATA-COLLECTION/</loc>
-    <lastmod>2023-01-02</lastmod>
+    <lastmod>2023-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
