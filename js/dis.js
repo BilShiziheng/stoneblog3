@@ -184,12 +184,13 @@ $.ajax({
             //判断时间
             let timeChange;
             let date = new Date();
-            if (date.getHours()>= 5 && date.getHours() < 11) timeChange = "<span>上午好</span>，一日之计在于晨";
+            if (date.getHours()>= 5 && date.getHours() < 11) timeChange = "<span>上午好</span>，一日之计在于晨，石头中转站上班啦";
             else if (date.getHours()>= 1 && date.getHours() < 13) timeChange = "<span>中午好</span>，该摸鱼吃午饭了";
             else if (date.getHours() >= 13 && date.getHours() < 15) timeChange = "<span>下午好</span>，懒懒地睡个午觉吧！";
             else if (date.getHours() >= 15 && date.getHours() < 16) timeChange = "<span>三点几啦</span>，饮茶先啦！";
             else if (date.getHours() >= 16 && date.getHours() < 19) timeChange = "<span>夕阳无限好！</span>";
-            else if (date.getHours() >= 19 && date.getHours() < 24) timeChange = "<span>晚上好</span>，夜生活嗨起来！";
+            else if (date.getHours() >= 19 && date.getHours() < 21) timeChange = "<span>晚上好</span>，石头中转站依旧在运行！";
+            else if (date.getHours() >= 21 && date.getHours() < 24) timeChange = "<span>晚上好，石头中转站休息啦</span>，夜生活嗨起来！";
             else timeChange = "夜深了，早点休息，少熬夜";
         
             document.getElementsByClassName("announcement_content")[0].innerHTML =
@@ -197,7 +198,7 @@ $.ajax({
         你距离石头约有<span>${dist}</span>公里，${posdesc}
         <br>
         <br>
-        本网站的Twikoo评论系统使用<a href="https://cravatar.cn">Cravatar</a>头像系统，请自行绑定邮箱配置
+        欢迎来到石头のBlog awa，石头中转站运营时间:上午7:30-晚上8:50（到9:50之内只收不发qwq），欢迎各位积极投稿
         `;
         }
         showWelcome()
