@@ -362,7 +362,7 @@
   </url>
   
   <url>
-    <loc>https://www.stoneblog.ml/musics/index.html</loc>
+    <loc>https://www.stoneblog.ml/muyu/index.html</loc>
     
     <lastmod>2022-12-14</lastmod>
     
@@ -371,7 +371,7 @@
   </url>
   
   <url>
-    <loc>https://www.stoneblog.ml/muyu/index.html</loc>
+    <loc>https://www.stoneblog.ml/musics/index.html</loc>
     
     <lastmod>2022-12-14</lastmod>
     
@@ -442,21 +442,7 @@
   </url>
   
   <url>
-    <loc>https://www.stoneblog.ml/tags/FileeaHIze/</loc>
-    <lastmod>2023-01-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.stoneblog.ml/tags/%E7%9F%B3%E5%A4%B4%E8%87%AA%E5%88%B6%E6%96%87%E7%AB%A0%EF%BC%88%E7%BB%88%E4%BA%8E/</loc>
-    <lastmod>2023-01-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.stoneblog.ml/tags/%E6%B0%B5/</loc>
     <lastmod>2023-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -471,6 +457,20 @@
   
   <url>
     <loc>https://www.stoneblog.ml/tags/%E5%B0%8F%E6%B1%AA%E6%98%AF%E4%B8%AA%E2%86%91%E2%86%93/</loc>
+    <lastmod>2023-01-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.stoneblog.ml/tags/FileeaHIze/</loc>
+    <lastmod>2023-01-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.stoneblog.ml/tags/%E6%B0%B5/</loc>
     <lastmod>2023-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
