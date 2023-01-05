@@ -1,3 +1,4 @@
+https://www.stoneblog.ml/posts/b976803d/
 https://www.stoneblog.ml/posts/1a5f7dac/
 https://www.stoneblog.ml/posts/a38af3f/
 https://www.stoneblog.ml/posts/5d5ada8e/
@@ -37,8 +38,8 @@ https://www.stoneblog.ml/bangumis/index.html
 https://www.stoneblog.ml/categories/index.html
 https://www.stoneblog.ml/fontawesome/index.html
 https://www.stoneblog.ml/license/index.html
-https://www.stoneblog.ml/musics/index.html
 https://www.stoneblog.ml/muyu/index.html
+https://www.stoneblog.ml/musics/index.html
 https://www.stoneblog.ml/tags/index.html
 https://www.stoneblog.ml/tools/index.html
 https://www.stoneblog.ml/

@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.stoneblog.ml/posts/b976803d/</loc>
+    
+    <lastmod>2023-01-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.stoneblog.ml/posts/1a5f7dac/</loc>
     
     <lastmod>2023-01-05</lastmod>
@@ -353,7 +362,7 @@
   </url>
   
   <url>
-    <loc>https://www.stoneblog.ml/musics/index.html</loc>
+    <loc>https://www.stoneblog.ml/muyu/index.html</loc>
     
     <lastmod>2022-12-14</lastmod>
     
@@ -362,7 +371,7 @@
   </url>
   
   <url>
-    <loc>https://www.stoneblog.ml/muyu/index.html</loc>
+    <loc>https://www.stoneblog.ml/musics/index.html</loc>
     
     <lastmod>2022-12-14</lastmod>
     
