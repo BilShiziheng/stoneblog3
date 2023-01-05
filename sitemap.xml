@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.stoneblog.ml/posts/1a5f7dac/</loc>
+    
+    <lastmod>2023-01-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.stoneblog.ml/posts/a38af3f/</loc>
     
     <lastmod>2023-01-05</lastmod>
@@ -317,7 +326,7 @@
   </url>
   
   <url>
-    <loc>https://www.stoneblog.ml/fontawesome/index.html</loc>
+    <loc>https://www.stoneblog.ml/categories/index.html</loc>
     
     <lastmod>2022-12-14</lastmod>
     
@@ -326,7 +335,7 @@
   </url>
   
   <url>
-    <loc>https://www.stoneblog.ml/categories/index.html</loc>
+    <loc>https://www.stoneblog.ml/fontawesome/index.html</loc>
     
     <lastmod>2022-12-14</lastmod>
     
@@ -344,7 +353,7 @@
   </url>
   
   <url>
-    <loc>https://www.stoneblog.ml/muyu/index.html</loc>
+    <loc>https://www.stoneblog.ml/musics/index.html</loc>
     
     <lastmod>2022-12-14</lastmod>
     
@@ -353,7 +362,7 @@
   </url>
   
   <url>
-    <loc>https://www.stoneblog.ml/musics/index.html</loc>
+    <loc>https://www.stoneblog.ml/muyu/index.html</loc>
     
     <lastmod>2022-12-14</lastmod>
     
@@ -410,6 +419,13 @@
   </url>
   
   <url>
+    <loc>https://www.stoneblog.ml/tags/%E7%AB%B9%E5%AD%90/</loc>
+    <lastmod>2023-01-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.stoneblog.ml/tags/%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90%EF%BC%81%EF%BC%81/</loc>
     <lastmod>2023-01-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -431,14 +447,14 @@
   </url>
   
   <url>
-    <loc>https://www.stoneblog.ml/tags/DATACOOLWSDJN2HE/</loc>
+    <loc>https://www.stoneblog.ml/tags/%E6%B0%B5/</loc>
     <lastmod>2023-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.stoneblog.ml/tags/%E6%B0%B5/</loc>
+    <loc>https://www.stoneblog.ml/tags/DATACOOLWSDJN2HE/</loc>
     <lastmod>2023-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -452,14 +468,14 @@
   </url>
   
   <url>
-    <loc>https://www.stoneblog.ml/tags/%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://www.stoneblog.ml/tags/GS%E7%9A%84%E5%B0%8F%E8%AF%B4%E4%BB%AC/</loc>
     <lastmod>2023-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.stoneblog.ml/tags/GS%E7%9A%84%E5%B0%8F%E8%AF%B4%E4%BB%AC/</loc>
+    <loc>https://www.stoneblog.ml/tags/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2023-01-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
