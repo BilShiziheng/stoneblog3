@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>如何用Hexo当自己的Blog？</title>
+      <link href="/posts/358f17b4/"/>
+      <url>/posts/358f17b4/</url>
+      
+        <content type="html"><![CDATA[<h1 id="如何用hexo当自己的blog"><a class="markdownIt-Anchor" href="#如何用hexo当自己的blog"></a> 如何用Hexo当自己的Blog？</h1><div class="tip bell"><p>准~备材料</p></div><ol><li><a href="https://nodejs.org/dist/v19.3.0/node-v19.3.0-x64.msi">node.js</a>一份~</li><li><a href="https://registry.npmmirror.com/-/binary/git-for-windows/v2.39.0.windows.2/Git-2.39.0.2-64-bit.exe">git</a>一份</li></ol><h3 id="install"><a class="markdownIt-Anchor" href="#install"></a> Install</h3><div class="tip info"><p>Git和Node.js一直无脑Next就行qwq，没什么特殊需求</p></div><h3 id="安装hexo"><a class="markdownIt-Anchor" href="#安装hexo"></a> 安装Hexo</h3><p>按<kbd>win</kbd> + <kbd>R</kbd>打开<span class="p blue">运行</span>窗口，输入<code>cmd</code>打开命令提示符窗口<br>然后，你去桌面上新建个文件夹（其实哪里都行）<br>在<span class="p red">命令提示符</span>窗口输入</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">cd</span> /Desktop/Hexo <span class="comment">#这里以这个文件夹为例，其实输入你文件夹路径就行（废话</span></span><br></pre></td></tr></table></figure><p>输入</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-cli</span><br></pre></td></tr></table></figure><p>以<span class="p red">安装Hexo</span></p><h3 id="安装butterfly主题"><a class="markdownIt-Anchor" href="#安装butterfly主题"></a> 安装Butterfly主题</h3><div class="tip "><p><s>当然你要觉得默认的好看当我没说</s></p></div><p>还是，在<span class="p red">命令提示符</span>里面输入</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git clone -b master https://github.com/jerryc127/hexo-theme-butterfly.git themes/butterfly</span><br></pre></td></tr></table></figure><p>然后Butterfly主题就安装好了www</p><div class="tip info"><p>总结，难，但不多qwq</p></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 石头自制文章（终于） </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>关于StoneBlog更改收稿时间</title>
       <link href="/posts/18a523ca/"/>
       <url>/posts/18a523ca/</url>
